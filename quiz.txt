@@ -1,0 +1,15 @@
+1.Which is the capital city of India?
+A.New-Delhi		B.Ludiana	C.Bangalore		D.Chennai
+A
+2.Which among the following is national bird of India?
+A.Parrot		B.Crow		C.Peacock		D.Dove
+C
+3.Which is not an input device for a computer?
+A.Mouse			B.Monitor	C.Keyboard		D.Touch pad
+B
+4.Ampere is the SI unit of______?
+A.Volt			B.Power		C.Pressure		D.Current
+D
+5.Which disease was declared as a pandemic in the year 2020 by WHO?
+A.H1N1			B.Covid-19	C.Spanish flue	D.Malaria
+B

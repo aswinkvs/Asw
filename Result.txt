@@ -1,0 +1,12 @@
+
+ Candidate ID :  
+ Score : 1 
+
+ Candidate ID :  
+ Score : 5 
+
+ Candidate ID :138724  
+ Score : 3 
+
+ Candidate ID :456  
+ Score : 0 
